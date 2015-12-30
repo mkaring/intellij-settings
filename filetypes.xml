@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="console" type="PHP" />
+      <mapping ext="apt" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="XML" />
+    </extensionMap>
+  </component>
+</application>

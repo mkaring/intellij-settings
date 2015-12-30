@@ -1,0 +1,10 @@
+<application>
+  <component name="dataSourceStorage" format="xml">
+    <data-source source="LOCAL" name="Illarion Local" uuid="59f36397-8e3c-4179-ab41-ef1f4c6ddae2">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/illarion</jdbc-url>
+    </data-source>
+  </component>
+</application>
