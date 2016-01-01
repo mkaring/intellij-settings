@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping ext="gs" type="GLSL shader file" />
+      <mapping ext="vs" type="GLSL shader file" />
+      <mapping ext="fs" type="GLSL shader file" />
       <mapping pattern="console" type="PHP" />
       <mapping ext="apt" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
