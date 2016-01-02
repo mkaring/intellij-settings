@@ -64,6 +64,9 @@
     </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/d3efacf8_dc.xsd" />
     <resource url="http://schema.phpunit.de/5.0/phpunit.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/c937d8be_phpunit.xsd" />
+    <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.IntelliJIdea15/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
+    <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/1c608002_xml.xsd" />
   </component>
 </application>
