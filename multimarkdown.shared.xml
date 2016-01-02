@@ -2,10 +2,10 @@
   <component name="ApplicationShared">
     <PreviewSettings splitEditorLayout="FIRST" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" showPreviewTab="true" showModifiedHtmlTab="false" showUnmodifiedHtmlTab="false">
       <PanelProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.panel" providerName="JavaFX WebView" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.panel" providerName="Default - Swing" />
       </PanelProvider>
     </PreviewSettings>
-    <ParserSettings parsingTimeout="10000">
+    <ParserSettings parsingTimeout="0">
       <PegdownExtensions>
         <option name="ABBREVIATIONS" value="false" />
         <option name="ANCHORLINKS" value="false" />
@@ -28,12 +28,12 @@
         <option name="WIKILINKS" value="false" />
       </PegdownExtensions>
       <ParserOptions>
-        <option name="GITHUB_WIKI_LINKS" value="true" />
+        <option name="GITHUB_WIKI_LINKS" value="false" />
       </ParserOptions>
     </ParserSettings>
     <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false">
       <GeneratorProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.generator" providerName="JavaFx HTML Generator" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.generator" providerName="Default Swing HTML Generator" />
       </GeneratorProvider>
       <headerTop />
       <headerBottom />
@@ -42,12 +42,12 @@
     </HtmlSettings>
     <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssTextEnabled="false" isDynamicPageWidth="false">
       <StylesheetProvider>
-        <provider providerId="com.vladsch.idea.multimarkdown.editor.javafx.html.css" providerName="Default JavaFx Stylesheet" />
+        <provider providerId="com.vladsch.idea.multimarkdown.editor.swing.html.css" providerName="Default Swing Stylesheet" />
       </StylesheetProvider>
       <ScriptProviders />
       <cssText />
     </CssSettings>
     <DocumentSettings trimTrailingBlanks="false" />
   </component>
-  <component name="MultiMarkdownSettings" abbreviations="false" anchorLinks="false" autoLinks="false" definitions="false" enableTrimSpaces="false" fencedCodeBlocks="false" forceListPara="false" hardWraps="false" headerSpace="false" quotes="false" relaxedHRules="false" showHtmlText="true" showHtmlTextAsModified="false" smarts="false" strikethrough="false" suppressHTMLBlocks="false" suppressInlineHTML="false" tables="false" taskLists="false" wikiLinks="false" todoComments="false" useCustomCss="false" enableFirebug="false" useHighlightJs="true" includesHljsCss="false" includesLayoutCss="false" includesColorsCss="true" footnotes="false" htmlTheme="1" maxImgWidth="900" parsingTimeout="10000" pageZoom="1.0" updateDelay="1000" tabbedPaneIndex="2" customCss="" customFxCss="" useOldPreview="false" githubWikiLinks="true" />
+  <component name="MultiMarkdownSettings" abbreviations="false" anchorLinks="false" autoLinks="false" definitions="false" enableTrimSpaces="false" fencedCodeBlocks="false" forceListPara="false" hardWraps="false" headerSpace="false" quotes="false" relaxedHRules="false" showHtmlText="true" showHtmlTextAsModified="false" smarts="false" strikethrough="false" suppressHTMLBlocks="false" suppressInlineHTML="false" tables="false" taskLists="false" wikiLinks="false" todoComments="false" useCustomCss="false" enableFirebug="false" useHighlightJs="true" includesHljsCss="false" includesLayoutCss="false" includesColorsCss="true" footnotes="false" htmlTheme="0" maxImgWidth="900" parsingTimeout="10000" pageZoom="1.0" updateDelay="1000" tabbedPaneIndex="0" customCss="" customFxCss="" useOldPreview="false" githubWikiLinks="true" />
 </application>
