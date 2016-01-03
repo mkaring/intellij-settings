@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
-    <option name="defaultScopeName" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
-    <option name="SEARCH_SCOPE" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
+    <option name="customScope" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
+    <option name="defaultScopeName" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
   </component>
 </application>
