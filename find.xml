@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'client'" />
-    <option name="defaultScopeName" value="Module 'client'" />
-    <option name="SEARCH_SCOPE" value="Module 'client'" />
+    <option name="customScope" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
+    <option name="defaultScopeName" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
+    <option name="SEARCH_SCOPE" value="File '/home/martin/IdeaProjects/nifty-gui/nifty/src/main/javadoc/de/lessvoid/nifty/node/doc-files/AbsoluteLayoutNode-1.svg'" />
   </component>
 </application>
