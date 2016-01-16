@@ -64,9 +64,19 @@
     </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://docs.oasis-open.org/xliff/v1.2/cs02/xliff-core-1.2-strict.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/4cefd91f_xliff-core-1.2-strict.xsd" />
     <resource url="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/d3efacf8_dc.xsd" />
+    <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/.IntelliJIdea14/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://schema.phpunit.de/4.1/phpunit.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/5ddf74fe_phpunit.xsd" />
     <resource url="http://schema.phpunit.de/5.0/phpunit.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/c937d8be_phpunit.xsd" />
     <resource url="http://www.w3.org/1999/02/22-rdf-syntax-ns#" location="$USER_HOME$/.IntelliJIdea15/system/extResources/edc05920_22-rdf-syntax-ns#.xml" />
+    <resource url="http://www.w3.org/2000/svg" location="$USER_HOME$/.IntelliJIdea15/system/extResources/2889bd79_svg11.dtd" />
     <resource url="http://www.w3.org/2001/03/xml.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/1c608002_xml.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/9b192256_xml.xsd" />
+    <CATALOG_PROPERTIES />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
   </component>
 </application>
