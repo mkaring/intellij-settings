@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
-    <option name="defaultScopeName" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
+    <option name="customScope" value="Module 'client'" />
+    <option name="defaultScopeName" value="Module 'client'" />
+    <option name="SEARCH_SCOPE" value="Module 'client'" />
   </component>
 </application>
