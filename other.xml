@@ -80,6 +80,9 @@
     <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/9b192256_xml.xsd" />
     <CATALOG_PROPERTIES />
   </component>
+  <component name="LuaApplicationSettings">
+    <option name="INCLUDE_ALL_FIELDS_IN_COMPLETIONS" value="true" />
+  </component>
   <component name="RefactoringSettings">
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
