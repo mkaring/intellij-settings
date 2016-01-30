@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
-    <option name="defaultScopeName" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'D:\Entwicklung\nifty-gui\nifty\src\main\java\de\lessvoid\nifty\node'" />
+    <option name="customScope" value="Project 'illarion'" />
+    <option name="defaultScopeName" value="Project 'illarion'" />
+    <option name="SEARCH_SCOPE" value="Project 'illarion'" />
   </component>
 </application>
