@@ -66,6 +66,10 @@
       <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
     </filter>
+    <filter>
+      <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+    </filter>
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://docs.oasis-open.org/xliff/v1.2/cs02/xliff-core-1.2-strict.xsd" location="$USER_HOME$/.IntelliJIdea15/system/extResources/4cefd91f_xliff-core-1.2-strict.xsd" />
