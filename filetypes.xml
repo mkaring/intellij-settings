@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping ext="gs" type="GLSL shader file" />
       <mapping ext="vs" type="GLSL shader file" />
       <mapping ext="fs" type="GLSL shader file" />
-      <mapping ext="gs" type="GLSL shader file" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
