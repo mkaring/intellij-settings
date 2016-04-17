@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/mkaring/coregl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mkaring/durable-task-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Entwicklung" />
+    <option name="cloneParentDir" value="D:\Entwicklung\Jenkins" />
   </component>
 </application>
