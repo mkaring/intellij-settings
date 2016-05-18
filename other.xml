@@ -3,6 +3,7 @@
     <option name="INCLUDE_ALL_FIELDS_IN_COMPLETIONS" value="true" />
   </component>
   <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_PACKAGE" value="false" />
     <option name="MOVE_INNER_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
   </component>
