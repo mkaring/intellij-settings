@@ -1,12 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="FIRST_INSTALL" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern=".gitattributes" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping ext="apt" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="XML" />
       <mapping ext="fs" type="GLSL shader file" />
       <mapping ext="gs" type="GLSL shader file" />
